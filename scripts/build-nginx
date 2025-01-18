@@ -57,6 +57,7 @@ configure() {
 		--with-http_auth_request_module \
 		--with-http_secure_link_module \
 		--with-stream \
+		--with-stream_realip_module
 		--without-http_ssi_module \
 		--without-http_mirror_module \
 		--without-http_geo_module \
